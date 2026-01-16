@@ -1,7 +1,3 @@
-
-
----
-
 # **Introduction to Programming – Week 1**
 
 ### **Logbook Summary**
